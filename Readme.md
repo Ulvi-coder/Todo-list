@@ -11,4 +11,4 @@
 ## Как запустить
 1. Клонировать репозиторий:
     ```bash
-    git clone https://github.com/Ulvi-coder/Todo-list.git
+    git clone https://github.com/Ulvi-coder/Todo-list
